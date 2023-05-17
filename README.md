@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Data Scientist Path in Miuul 
 - 💬 Ask me about Python, C#, R, SPSS
 - 📫 How to reach me: myasincirak@gmail.com
-### Connect with Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
